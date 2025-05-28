@@ -1,25 +1,12 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
+		"name": "Discharge of Lightning",
+		"uniqueTo": "The Thunderstorm",
 		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
+		"happiness": 999,
+		"culture": 999,
+		"science": 999,
 		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
-	},
-	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"isNationalWonder": false,
 	}
 ]
