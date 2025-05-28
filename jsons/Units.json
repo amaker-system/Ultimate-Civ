@@ -7,7 +7,7 @@
 		"movement": 5,
 		"strength": 40,
 		"rangedStrength": 36,
-		"range": 5,
+		"range": 3,
 		"cost": 500,
 		"attackSound": "Very_close_thunder_cracks"
 	},
@@ -19,7 +19,7 @@
 		"movement": 8,
 		"strength": 120,
 		"rangedStrength": 36,
-		"range": 10,
+		"range": 5,
 		"cost": 1000,
 		"attackSound": "Very_close_thunder_cracks"
 	}
