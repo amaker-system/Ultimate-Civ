@@ -1,17 +1,26 @@
 [
 	{
+		"name": "Negative Lightning",
+		"unitType": "Ranged",
+		"uniqueTo": "The Thunderstorm",
+		"replaces": "Archer",
+		"movement": 5,
+		"strength": 40,
+		"rangedStrength": 36,
+		"range": 5,
+		"cost": 500,
+		"attackSound": "phasers"
+	},
+	{
 		"name": "Phasers",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
+		"uniqueTo": "The Thunderstorm",
+		"replaces": "Warrior",
+		"movement": 8,
+		"strength": 120,
 		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
+		"range": 10,
+		"cost": 1000,
 		"attackSound": "phasers"
 	}
 ]
