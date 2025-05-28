@@ -8,7 +8,7 @@
 		"strength": 40,
 		"rangedStrength": 36,
 		"range": 3,
-		"cost": 500,
+		"cost": 25,
 		"attackSound": "thunder"
 	},
 	{
@@ -19,7 +19,7 @@
 		"movement": 5,
 		"strength": 120,
 		"range": 5,
-		"cost": 1000,
+		"cost": 50,
 		"attackSound": "thunder"
 	}
 ]
