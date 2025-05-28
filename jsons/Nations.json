@@ -11,27 +11,27 @@
 		
 		"declaringWar": "Get struck by lightning!",
 		"attacked": "Aha! You dare attacking a thunderstorm! How delusional!",
-		"defeated": "Integrate...",
-		"introduction": "Hello.",
+		"defeated": "The thunderstorm has ended...",
+		"introduction": "*thunder sounds*",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralNo": ["No.","No!","Hell no!"],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
-		"hateHello": "You are not worthy of being integrated",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateHello": "Do you want to get struck?",
+		"hateLetsHearIt": ["Speak!","Then say it!","Alright!"],
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "You survived getting struck by lightning.",
+		"tradeRequest": "The electrical discharges in the cloud have requested a trade offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [0,0,0],
+		"innerColor": [255,0,0],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
+		"cities": ["Blitz","Electrica","Neutra","Positrona","Negativa","Electrona","Cumulonimbus","Nimbostratus","Thunderhead",
+			"Cracks of Thunder","Peals of Thunder","Nimbus","Cumulus","Neutrania","Nimbocumulus","Elektrika","Stormia","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
 	}
