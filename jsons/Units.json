@@ -9,10 +9,10 @@
 		"rangedStrength": 36,
 		"range": 5,
 		"cost": 500,
-		"attackSound": "phasers"
+		"attackSound": "Very_close_thunder_cracks"
 	},
 	{
-		"name": "Phasers",
+		"name": "Positive Lightning",
 		"unitType": "Ranged",
 		"uniqueTo": "The Thunderstorm",
 		"replaces": "Warrior",
@@ -21,6 +21,6 @@
 		"rangedStrength": 36,
 		"range": 10,
 		"cost": 1000,
-		"attackSound": "phasers"
+		"attackSound": "Very_close_thunder_cracks"
 	}
 ]
