@@ -9,7 +9,7 @@
 		"rangedStrength": 36,
 		"range": 3,
 		"cost": 500,
-		"attackSound": "Very_close_thunder_cracks"
+		"attackSound": "thunder"
 	},
 	{
 		"name": "Positive Lightning",
@@ -20,6 +20,6 @@
 		"strength": 120,
 		"range": 5,
 		"cost": 1000,
-		"attackSound": "Very_close_thunder_cracks"
+		"attackSound": "thunder"
 	}
 ]
