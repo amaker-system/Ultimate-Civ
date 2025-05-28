@@ -4,7 +4,7 @@
 		"unitType": "Ranged",
 		"uniqueTo": "The Thunderstorm",
 		"replaces": "Archer",
-		"movement": 5,
+		"movement": 3,
 		"strength": 40,
 		"rangedStrength": 36,
 		"range": 3,
@@ -13,12 +13,11 @@
 	},
 	{
 		"name": "Positive Lightning",
-		"unitType": "Ranged",
+		"unitType": "Melee",
 		"uniqueTo": "The Thunderstorm",
 		"replaces": "Warrior",
-		"movement": 8,
+		"movement": 5,
 		"strength": 120,
-		"rangedStrength": 36,
 		"range": 5,
 		"cost": 1000,
 		"attackSound": "Very_close_thunder_cracks"
